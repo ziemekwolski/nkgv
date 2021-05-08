@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <meta content='{{ page.excerpt }}' name='description'>
+    <meta content='{{ page.seo_keywords }}' name='keywords'>
+    {% include meta.html %}
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% include javascript.html %}
+  </head>
+  <body>
+    {% include navigation.html %}
+    <header class='hero-image' role='banner' style='background-image: url({{ page.hero-image-url }});'>
+      {% if page.hero-image-author %}
+        <div class="image-author">Image by: <a href="{{ page.hero-image-source }}">{{ page.hero-image-author }}</a></div>
+      {% endif %}
+    </header>
+    {% include menu-trigger.html %}
+    <main class='container'>
+      <div class='row'>
+        <div class='col-xs-12 single-content'>
+          <div class='logo'></div>
+            <p class='meta'>
+              In <a href="{{ page.category_url }}">{{ page.category }}</a>
+              <i class='link-spacer'></i> By {{ page.author }} <i class='link-spacer'></i>{{ page.date | date_to_long_string }}
+              <img alt='Ziemek' class='user-icon user-1' src='/assets/images/Z0069.jpg'>
+            </p>
+            {{ content }}
+            {% include comments.html %}
+        </div>
+      </div>
+    </main>
+
+    {% include post-footer.html %}
+
+<!--     <main class='container left-container'>
+      <div class='row'>
+        <section class='sidebar col-md-5 col-sm-12' style="background-image: url('/assets/images/photo-trains.jpg');">
+          {% include menu-trigger.html %}
+          <div class='site-info'></div>
+          <div class="image-author">Image by: <a href="https://unsplash.com/photos/Q47eNv_UvfM">Dmitrii Vaccinium</a></div>
+        </section>
+        <section class="col-md-7 col-sm-12 col-md-offset-5 main-content">
+        </section>
+      </div>
+    </main>
+ -->
+  </body>
+</html>
