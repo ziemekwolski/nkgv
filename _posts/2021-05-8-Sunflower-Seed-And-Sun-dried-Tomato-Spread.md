@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Sunflower Seeds and Sun-dried Tomato Spread
-excerpt: Have you ever sat down at your computer and wondered "How am I ever going to make this work?". This article is for you.
+excerpt: Sweet delicious easy to make spread. Great for breakfast or as an appetizer.
 author: Nece
 category: Breakfast
 category_url: /categories/breakfast.html
-seo_keywords: Developer, anxiety, planning
+seo_keywords: Sunflower Seed, Tomato, Spread, Vegan
 hero-image-url: /assets/images/posts/2021-05-8-sunflower-seed-and-sun-dried-tomato-spread/cover.jpg
 ---
 # Sunflower Seeds and Sun-dried Tomato Spread
