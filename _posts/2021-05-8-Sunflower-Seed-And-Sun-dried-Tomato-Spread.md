@@ -17,7 +17,7 @@ hero-image-url: /assets/images/posts/2021-05-8-sunflower-seed-and-sun-dried-toma
 
 
 ## Ingredients:
-* 1 cup unshelled sunflower seeds
+* 1 cup shelled sunflower seeds
 * 1 cup sun-dried tomato
 * 3 tbsp. onion
 * 1 clove garlic
