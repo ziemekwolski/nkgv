@@ -9,7 +9,8 @@ seo_keywords: Quinoa Salad, fennel bulb, Vegan
 hero-image-url: /assets/images/posts/2021-06-06-quinoa-salad-with-fennel-bulb/cover.jpg
 ---
 
-<br>
+# Quinoa Salad With Fennel Bulb
+
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TSGC-tR3mvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
