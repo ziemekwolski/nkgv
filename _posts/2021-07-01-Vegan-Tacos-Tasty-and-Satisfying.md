@@ -65,11 +65,13 @@ On a stovetop, warm the skillet to medium heat. Once hot enough, you can add the
 ![Vegan Meat Done](/assets/images/posts/2021-07-01-vegan-tacos-tasty-and-satisfying/vegan-meat-done.jpg "Vegan Meat Done")
 
 __*The sauce*__
+
 In a small bowl, combine vegan mayonnaise, dijon mustard, ketchup, and water to thin it out. Mix it well.
 
 ![Sauce](/assets/images/posts/2021-07-01-vegan-tacos-tasty-and-satisfying/sauce.jpg "Sauce")
 
 __*Putting it together*__
+
 Now you can slice half of the avocado into small cubes and thinly chop some lettuce for your toppings.
 
 Bake your vegan taco shells according to package instructions. I also sometimes used soft taco or a lettuce leaf.
