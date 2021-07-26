@@ -42,4 +42,6 @@ The next day I transfer it to a pot, the mixture becomes thick, so I add at leas
 
 Another way of serving it is to eat it cold. To do that, add all the ingredients to a jar, mix it and put it in the fridge. Grab it the following day, and it's ready to eat.
 
+![Overnight Oats](/assets/images/posts/2021-07-25-overnight-oats/cover.jpg "Overnight Oats")
+
 Enjoy your overnight oat VegaNece, friends!
