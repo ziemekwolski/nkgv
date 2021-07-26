@@ -32,7 +32,7 @@ hero-image-url: /assets/images/posts/2021-07-25-overnight-oats/cover.jpg
 
 Overnight oat is our top choice breakfast in the kitchen. We like it because it is high in iron and high in omega 3s. It is also easy to prepare, and you can make it ahead of time. I normally pre-prepared five days in advance or more in a set of jars, so I don't need to do the process every day. I used steel-cut oats in this recipe, but you can also use rolled oats or just the regular oat if it's not available in your kitchen. Now let's get to it.
 
-![Ingredients](/assets/images/posts/2021-07-25-overnight-oats/ingredients.png "Ingredients")
+![Ingredients](/assets/images/posts/2021-07-25-overnight-oats/ingredients.jpg "Ingredients")
 
 ### Method:
 
