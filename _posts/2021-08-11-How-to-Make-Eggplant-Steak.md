@@ -30,7 +30,7 @@ One of my favourite vegetables is eggplant! Since now is the perfect season, I d
 ### Filling
 * Grapeseed oil
 * 4 cups chopped cauliflower (470g)
-* 3 cup chop oyster mushroom
+* 3 cup chop oyster mushroom (315g)
 * 1/2 cup onion
 * 4 cloves garlic, chopped
 * 2 sprig fresh thyme or 1/2 tsp dried
