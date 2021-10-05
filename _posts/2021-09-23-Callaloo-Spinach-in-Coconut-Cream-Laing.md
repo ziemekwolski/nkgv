@@ -5,7 +5,7 @@ excerpt: This Callaloo Spinach in Coconut is a creamy and satisfying recipe full
 category: Dinner
 category_url: /categories/dinner.html
 seo_keywords: coconut spinach recipe,vegan recipes,gluten free,spinach recipes,spinach recipe,vegan recipe,food for kids to make,coconut spinach,spinach recipes for kids,spinach recipes vegetarian,vegan recipes high protein,vegan recipes healthy,Laing,Spinach callaloo recipe,tagalog learning
-hero-image-url: /assets/images/posts/2021-09-23-callaloo-spinach-in-coconut-cream-laing//cover.jpg
+hero-image-url: /assets/images/posts/2021-09-23-callaloo-spinach-in-coconut-cream-laing/cover.jpg
 ---
 
 # Callaloo Spinach in Coconut Cream/Laing
@@ -34,6 +34,6 @@ This recipe is creamy and satisfying to the palette. It reminds me of a recipe c
 
 Chop the spinach into 1 inch roughly. In a wok, put the coconut milk, chop onion, garlic and vegetable cube. Bring to boil, make sure the vegetable broth dissolves well to avoid any clumps. Add chop callaloo spinach, caraway seeds, sea salt and pepper. Do not over-mixed the spinach. Gently fold it until it is evenly wilted and cook it for 10 minutes. Slice the tofu bites and add to the mix together with the coconut cream and mix gently. Cook for another 5 minutes. During the last 5 minutes, you can adjust the taste if needed. When done, evenly add the apple cider vinegar (you can use the regular vinegar), mix gently and serve.
 
-![Callaloo Spinach in Coconut Cream](/assets/images/posts/2021-09-23-callaloo-spinach-in-coconut-cream-laing//cover.jpg "Callaloo Spinach in Coconut Cream")
+![Callaloo Spinach in Coconut Cream](/assets/images/posts/2021-09-23-callaloo-spinach-in-coconut-cream-laing/cover.jpg "Callaloo Spinach in Coconut Cream")
 
 
