@@ -15,7 +15,7 @@ hero-image-url: /assets/images/posts/2021-08-18-vegan-nut-bar-recipe/cover.jpg
 </div>
 <br>
 
-Do you ever wish that you had a handy vegan snack that was easy to grab and eat? What if I told you that it was easy to make and requires only a few minutes to complete? This vegan nut is for you!
+Do you ever wish that you had a handy vegan snack that was easy to grab and eat? What if I told you that it was easy to make and requires only a few minutes to complete? This vegan nut bar is for you!
 
 ## Ingredients:
 * 2 1/2 cup mixed nuts
