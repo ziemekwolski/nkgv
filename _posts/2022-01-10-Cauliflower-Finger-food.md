@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cauliflower Fingers
-excerpt: Looking for finger food that great to go Friday night movie? I got you covered.
+excerpt: Looking for finger food that goes great with a Friday night movie? I got you covered.
 author: Nece
 category: Dinner
 category_url: /categories/dinner.html
