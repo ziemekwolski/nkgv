@@ -6,7 +6,7 @@ author: Nece
 category: Dinner
 category_url: /categories/dinner.html
 seo_keywords: cauliflower finger food, cauliflower recipes, cauliflower recipes healthy, vegan recipe, crispy cauliflower, cauliflower bites, cauliflower popcorn, cauliflower wings recipes, cauliflower wings vegan, comfort food, cauliflower recipes air fryer
-hero-image-url: /assets/images/posts/2022-01-10-cauliflower-finger-food/cover.jpg
+hero-image-url: /assets/images/posts/2022-01-10-cauliflower-finger-food/cover-2.jpg
 ---
 
 # Cauliflower Fingers
