@@ -6,7 +6,7 @@ author: Nece
 category: Desserts
 category_url: /categories/desserts.html
 seo_keywords: pumpkin pie,spiced pumpkin pie recipe,vegan pie recipe dessert,easy pumpkin pie,how to make,pumpkin pie from scratch,easy pumpkin pie recipe,easy pumpkin pie vegan,easy pumpkin pie filling,pumpkin pie recipe from scratch
-hero-image-url: /assets/images/posts/2021-11-04-spiced-pumpkin-pie-recipe/cover.jpg
+hero-image-url: /assets/images/posts/2021-11-04-spiced-pumpkin-pie-recipe/cover-2.jpg
 ---
 
 # Spiced Pumpkin Pie Recipe
