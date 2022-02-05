@@ -88,6 +88,7 @@ For inside-out sushi, I cut 3/4 of the Nori. Lay it on top of the bamboo mat. Ri
 
 To make the Nori side up roll, use the whole Nori sheet. Put the nori sheet on top of the bamboo mat. Wash your hand with cold water again without drying. Scoop half a cup of rice and form an oval shape. Spread the rice evenly into the Nori sheet, leaving at least 1/4 of space on one end of Nori without rice. Sprinkle the rice with vegan Furikake. Place the filling on the opposite side of the space. From that corner, lift the mat and start folding to create a log while your other hand supports the other end. Slowly roll towards the other end until you meet that 1/4 space to secure the log. Gently roll back and forth once or twice until your roll is tight and secured. Repeat the same process until your rice is finished.
 
-Use a thin sharp knife to slice your sushi roll. Typically one roll produces about eight slices of sushi. Serve the sushi with your choice of wasabi or soy sauce. You can also use my homemade mayo and mustard sauce (put the link)
+Use a thin sharp knife to slice your sushi roll. Typically one roll produces about eight slices of sushi. Serve the sushi with your choice of wasabi or soy sauce. You can also use my homemade mayo and mustard sauce - see this [video](https://youtu.be/ia8TRuZhY9A?t=655).
+
 Now you can enjoy your masterfully made sushi!
 
