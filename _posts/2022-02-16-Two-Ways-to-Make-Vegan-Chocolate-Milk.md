@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two ways to make Vegan Chocolate milk
+title: Two Ways to Make Vegan Chocolate Milk
 excerpt: Want to sit by the fire and enjoy a hot or cold cup of Chocolate milk. Well, this recipe is for you!
 author: Nece
 category: Desserts
