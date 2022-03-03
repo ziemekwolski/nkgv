@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Two Ways to Make Vegan Chocolate Milk
+title: How to Make Creamy Cashew Milk Sopas Macaroni Recipe
 excerpt: Make this creamy and satisfying Sopas Vegan style!
 author: Nece
 category: Dinner
 category_url: /categories/dinner.html
-seo_keywords:
+seo_keywords: filipino food,panlasang pinoy,sopas recipe,vegan sopas recipe,vegan sopas,sopas without chicken,sopas without evaporated milk,sopas with cashew milk,creamy cashew soup,Creamy Cashew Milk Sopas Macaroni Recipe,sopas with mushroom recipe,sopas with mushroom soup,sopas with roasted garlic,creamy macaroni soup,how to cook sopas macaroni,creamy sopas recipes,vegan family meals,vegan family dinner recipes,vegan kids recipe
 hero-image-url: /assets/images/posts/2022-03-02-how-to-make-creamy-cashew-milk-sopas-macaroni-recipe/cover.jpg
 ---
 
