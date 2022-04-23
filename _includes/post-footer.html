@@ -24,7 +24,8 @@
     </div>
   </div>
   <div class="row read-another-section">
-    {% assign filtered_posts = site.posts | sample: 6 %}
+    {% assign publishedPosts = site.posts | where: 'layout', 'post' %}
+    {% assign filtered_posts = publishedPosts | sample: 6 %}
     {% for post in filtered_posts %}
       <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 no-gutter read-another-container">
         <a href="{{ post.url }}">
