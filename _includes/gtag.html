@@ -1,0 +1,11 @@
+{% if site.url != "http://localhost:4000"%}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3H194E2W4Y"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-3H194E2W4Y');
+  </script>
+{% endif %}
