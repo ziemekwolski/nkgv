@@ -20,7 +20,8 @@ Hi wonderful friends! Here comes another poke bowl recipe that I came up with. I
 Another satisfying crunch addition to this poke bowl is the [pickled daikon and red radish](https://www.youtube.com/watch?v=f3D3Wq2oslg), and they are so easy to make too! Before I get started, keep in mind the measurement of the ingredients written is more than the amount of a single serving. Please adjust according to your need. When we are in a rush, the leftover is always great in our family. I like to store them in an individual container for a healthy quick-fix meal the following day or two.
 
 ## Ingredients:
-* For the Barbecue Turnip:
+
+### For the Barbecue Turnip:
 * 2 Turnip Bulb
 * 1 tsp grapeseed oil
 * 1 1/2 tsp smoked paprika
@@ -30,7 +31,7 @@ Another satisfying crunch addition to this poke bowl is the [pickled daikon and 
 * 2 Tbsp Nutritional Yeast
 * Salt and Pepper
 
-## For the Sauce
+### For the Sauce
 * 6 Tbsp roasted sesame seeds
 * 2 Tbsp gluten-free Tamari soya sauce
 * 1 1/2 Tbsp Agave syrup
@@ -38,7 +39,7 @@ Another satisfying crunch addition to this poke bowl is the [pickled daikon and 
 * 1 tbsp vegan mayonnaise
 * 1/4 water
 
-* For poke bowl filler variation:
+### For poke bowl filler variation:
 * 1/2 cup cooked white or red quinoa
 * 1/4 cup sautéed button mushroom
 * 1/4 cup cooked barbecue turnip
@@ -66,9 +67,13 @@ I like to cook 2-3 cups of mushrooms, your choice of a white or brown button mus
 
 __*The Broccoli and Edamame*__
 
+![The Broccoli and Edamame](/assets/images/posts/2022-05-12-vegan-poke-bowl-with-barbecue-turnip/The-Broccoli-and-Edamame.jpg "The Broccoli and Edamame")
+
 Next, I steam broccoli and edamame seeds in medium heat for 3 minutes in a separate pot. After 3 minutes, make sure to remove the pot's lid while removing it from the hot stovetop to avoid overcooking it.
 
 __*The Mixed Greens*__
+
+![Mixed Greens](/assets/images/posts/2022-05-12-vegan-poke-bowl-with-barbecue-turnip/mixed-greens.jpg "Mixed Greens")
 
 After that, in a separate bowl, I mix julienne carrots, alfalfa microgreen and thin slices of radicchio.
 
