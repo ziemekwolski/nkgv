@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Smokey Chili Oil
+title: Pickling with Apple Cider Vinegar Recipe
 excerpt: Daikon and red radish are great when pickled, use this recipe as a snack or as topper for Salads or poke bowl.
+author: Nece
 category: Snacks
 category_url: /categories/snacks.html
 seo_keywords: quick pickles,how to make pickles,how to,quick pickled radish,how to pickle radishes,pickle daikon radish,pickled daikon radish recipe,how to make pickles taste better,daikon radish pickle recipe,how to make daikon radish pickle,pickling vegetables with apple cider vinegar,pickling with apple cider vinegar recipe,quick pickles recipe,quick pickled vegetables
