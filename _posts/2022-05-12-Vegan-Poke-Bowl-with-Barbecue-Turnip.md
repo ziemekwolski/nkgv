@@ -17,7 +17,7 @@ hero-image-url: /assets/images/posts/2022-05-12-vegan-poke-bowl-with-barbecue-tu
 <br>
 
 Hi wonderful friends! Here comes another poke bowl recipe that I came up with. I love this recipe because of the barbecue turnip, which I hardly ever explored adding to my daily diet, but not anymore!
-Another satisfying crunch addition to this poke bowl is the pickled daikon and red radish, and they are so easy to make too! (link of pickled radish) Before I get started, keep in mind the measurement of the ingredients written is more than the amount of a single serving. Please adjust according to your need. When we are in a rush, the leftover is always great in our family. I like to store them in an individual container for a healthy quick-fix meal the following day or two.
+Another satisfying crunch addition to this poke bowl is the [pickled daikon and red radish](https://www.youtube.com/watch?v=f3D3Wq2oslg), and they are so easy to make too! Before I get started, keep in mind the measurement of the ingredients written is more than the amount of a single serving. Please adjust according to your need. When we are in a rush, the leftover is always great in our family. I like to store them in an individual container for a healthy quick-fix meal the following day or two.
 
 ## Ingredients:
 * For the Barbecue Turnip:
@@ -56,7 +56,7 @@ __*The Turnip*__
 Warm up the oven to 375F.
 While the oven is warming, start peeling and slicing the turnip into bite-size cubes. Season it with all the above list of turnip ingredients and mix it into a bowl. Layer it evenly onto a cookie tray.
 Bake for 25-30 mins, mixing in about halfway through the process. It's done when the turnip is dry and crunchy to the touch.
-I like cooking the quinoa while I'm baking the turnip. (link to how to cook quinoa).
+I like [cooking the quinoa](https://www.youtube.com/shorts/QZNwJxjEidE) while I'm baking the turnip.
 
 __*The Mushrooms*__
 
