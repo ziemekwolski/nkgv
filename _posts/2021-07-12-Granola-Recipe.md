@@ -3,7 +3,7 @@ layout: post
 title: Granola Cereal Recipe
 excerpt: Quick and easy Granola Recipe that can be used for breakfast or as snack.
 author: Nece
-category: breakfast
+category: Breakfast
 category_url: /categories/breakfast.html
 seo_keywords: Granola, Granola cereal, Breakfast, Easy, inexpensive
 hero-image-url: /assets/images/posts/2021-07-12-granola-recipe/cover.jpg
