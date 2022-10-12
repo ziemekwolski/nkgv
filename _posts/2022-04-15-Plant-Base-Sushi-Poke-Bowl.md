@@ -78,7 +78,7 @@ When baking, lay the coated tofu strip in a cookie tray and bake it at 375°F fo
 
 When frying, to avoid using too much oil, use cast iron or a non-stick frying pan. Heat the pan on medium heat to cook the tofu. It should take about 2 minutes on each side or until crispy brown. I only use four tofu strips for a single serving and put the rest in the fridge for the next day's meal.
 
-__*The Japanese sweet*__
+__*the Japanese sweet potato*__
 
 ![Potatoes](/assets/images/posts/2022-04-15-plantbase-sushi-poke-bowl/potatoes.jpg "Potatoes")
 
