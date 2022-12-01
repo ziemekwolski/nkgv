@@ -1,6 +1,6 @@
 currently working on:
 Adding in font-awesome
- - Current problem, loads without error, but the fonts, don't show up.
+ - Current problem, loads without error, but the fonts, don't show up..
 
 
 consider removing:
